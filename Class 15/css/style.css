@@ -360,6 +360,7 @@ a:hover {
 }
 .copyright p{
   font-size: 14px;
+  font-weight: 500;
   color: #6b6b6b;
   margin-top: 25px;
 }
@@ -376,9 +377,12 @@ width: 100%;
 }
 .bottom-widget .menu .list li a {
   font-size: 14px;
+  font-weight: 500;
   color: #6b6b6b;
   
 }
-.bottom-widget .menu .list li a:hover {
-  color: #0089fd;
+
+.bottom-widget .menu .list li a:hover{
+  color: #ffc178;
+  text-decoration: none;
 }
