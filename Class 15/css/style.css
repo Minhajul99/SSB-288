@@ -349,6 +349,12 @@ a:hover {
   border: 2px solid #ffc178;
   border-radius: 0px;
 }
+.top-widget .inner-widget .form .btn-primary:hover,
+.top-widget .inner-widget .form .btn-primary:focus{
+  background: #ffffff; ;
+  color: #ffc178;
+  border: 2px solid #ffc178;
+}
 
 .bottom-widget{
   width: 100%;
